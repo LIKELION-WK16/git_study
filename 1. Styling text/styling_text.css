@@ -1,0 +1,42 @@
+/* 기본 속성 */
+
+.text-styling:nth-child(1) {
+    font-weight: lighter;
+}
+
+.text-styling:nth-child(2) {
+    text-transform: lowercase;
+}
+
+.text-styling:nth-child(3) {
+    font-style: italic;
+}
+
+.text-styling:nth-child(4) {
+    text-decoration: underline;
+}
+
+.text-styling:nth-child(5) {
+    text-align: right;
+}
+
+.text-styling:nth-child(6) {
+    letter-spacing: 15px;
+}
+
+.text-styling:nth-child(7) {
+    color: rgb(255, 150, 150);
+}
+
+.text-styling:nth-child(8) {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style: circle;
+}
+
+ol {
+    list-style: lower-roman;
+}
